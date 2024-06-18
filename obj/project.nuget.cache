@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5nCpqDA2ZAI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ari\\Documents\\MIDIPCPortal\\MIDIPCPortal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ari\\.nuget\\packages\\melanchall.drywetmidi\\7.1.0\\melanchall.drywetmidi.7.1.0.nupkg.sha512",
+    "C:\\Users\\ari\\.nuget\\packages\\raylib-cs\\6.0.0\\raylib-cs.6.0.0.nupkg.sha512",
+    "C:\\Users\\ari\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
